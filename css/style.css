@@ -15,3 +15,27 @@ color: #4d5ae5;
 .logo-span{
     color: #2e2f42;
 }
+.list-a{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
+}
+.list-a:hover :focus{
+    color: #404bbf;
+}
+
+.address{
+    font-style: normal;
+
+}
+.contact-mail{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.list-a:hover :focus{
+    color: #404bbf;
+}
