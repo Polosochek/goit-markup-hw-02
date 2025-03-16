@@ -36,6 +36,13 @@ color: #4d5ae5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.a-contact-mail,.contact-mail:hover :focus{
+.contact-mail:hover :focus{
+    color: #404bbf;
+}
+
+.acontact-mail{
+    color: #2e2f42 ;
+}
+.acontact-mail:hover :focus{
     color: #404bbf;
 }
