@@ -40,9 +40,3 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
-.acontact-mail{
-    color: #2e2f42 ;
-}
-.acontact-mail:hover :focus{
-    color: #404bbf;
-}
