@@ -66,9 +66,10 @@ color: #4d5ae5;
     cursor: pointer;
 }
 .but:hover {
-    color: #404bbf;
+   background-color:#404bbf;
 }
 .but:focus{
- color: #404bbf;   
+    background-color:#404bbf;
+
 }
 
